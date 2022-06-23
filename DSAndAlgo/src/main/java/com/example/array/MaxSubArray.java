@@ -10,7 +10,7 @@ public class MaxSubArray {
 
     private  int findCrossingSum(final int[] arr, int low, int mid, int high){
 
-
+         return 0;
 
     }
     public int findMaxSum(final int[] arr, int low, int high){
@@ -23,6 +23,7 @@ public class MaxSubArray {
         long leftSum =  findMaxSum(arr, low, mid);
 
         long rightSum = findMaxSum(arr, mid+1, high);
+        return 0;
 
     }
 }
