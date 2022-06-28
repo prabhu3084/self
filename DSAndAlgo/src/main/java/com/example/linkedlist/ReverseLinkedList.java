@@ -1,4 +1,4 @@
-package com.example.linkelist;
+package com.example.linkedlist;
 
 public class ReverseLinkedList<T> {
 
